@@ -91,7 +91,3 @@ java TextEditor
 Developed by Souvik Biswas✨
 
 ---
-
-If you want, I can make an **even more fun version with screenshots, badges, and step-by-step GIF instructions** for GitHub.
-
-Do you want me to do that next?
